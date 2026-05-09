@@ -68,3 +68,4 @@ model.train(
 print("YOLOv8l-Pose 训练完成！")
 print("训练好的模型一般在：")
 print(r"D:/yolov8/runs/swim_pose/underwater_yolov8l_pose/weights/best.pt")
+#xmy
