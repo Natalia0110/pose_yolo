@@ -7,10 +7,10 @@ from ultralytics import YOLO
 
 # YOLOv8l-Pose 预训练模型
 # 如果本地没有这个文件，Ultralytics 一般会自动下载
-PRETRAINED_MODEL = r"D:/yolov8/yolov8l-pose.pt"
+PRETRAINED_MODEL = r"D:/pose_yolo/yolov8l-pose.pt"
 
 # 数据集配置文件
-DATA_YAML = r"D:/yolov8/dataset/swim_pose/swim_pose.yaml"
+DATA_YAML = r"D:/pose_yolo/dataset/swim_pose/swim_pose.yaml"
 
 
 # ============================================================
