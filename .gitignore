@@ -1,0 +1,7 @@
+runs/
+alignment_check/
+.vscode/
+dataset/
+*raw*
+*output*
+poselast/
